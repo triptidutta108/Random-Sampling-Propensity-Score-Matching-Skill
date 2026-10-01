@@ -1,6 +1,6 @@
 ---
 name: random-sampling-psm
-description: Structured, reproducible workflow for AI-assisted random/stratified sampling, propensity-score matching (PSM) on binary treatment, generalized propensity score (GPS)/dose-response for continuous treatment, and multivalued-treatment designs. Use when the user wants to draw a random or stratified sample, design or execute a probability sample, select beneficiaries/respondents/units for a survey or evaluation, or estimate a treatment effect via matching (binary, continuous dose/intensity, or 3+ category treatment). Also trigger for auditing a sampling frame or covariate timing, calculating stratified allocation, checking balance/overlap diagnostics, classifying covariates by treatment timing, assessing common support, reconciling reported results against code, or producing reproducible R code and QC reports. Use this skill even if the user just says "help me pick a random sample of X from this list" or "I need to match treatment and control groups" without naming "sampling" or "PSM" explicitly.
+description: Reproducible workflows for random/stratified sampling, binary PSM, continuous-treatment GPS, multivalued treatment, diagnostics, provenance, and human-in-the-loop causal analysis.
 ---
 
 # AI-Assisted Sampling & Propensity Score Matching
