@@ -133,19 +133,6 @@ so nothing is stated twice and the two can't drift out of sync.
 13. Never claim a file exists unless it actually exists.
 14. If the design fails credible overlap/balance requirements, stop rather than search indefinitely.
 
-## Relationship to EvalCommunity
-
-Inspired by EvalCommunity's AI-assisted evaluation philosophy and MatchIt
-workflow (matching design, balance diagnostics, Love plots, propensity
-overlap, distributional diagnostics, matched-data extraction, cautious
-causal interpretation). This Skill extends that into a reusable workflow
-with explicit state management, blocking rules, estimator-specific
-inference, reproducibility, and stress-test-informed safeguards.
-
-Reference:
-- https://academy.evalcommunity.com/matchit-script/
-- https://academy.evalcommunity.com/prompt-pack/
-
 ## Recommended stress-test suite
 
 | Test | Failure mode | Expected behavior |
