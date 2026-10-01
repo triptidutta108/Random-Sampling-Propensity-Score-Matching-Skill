@@ -40,7 +40,7 @@ below, and are summarized as permanent safeguards in `SKILL.md`'s
 > Claude at runtime — only `SKILL.md` and the files it points to under
 > `references/` are loaded. Keep this file in sync with those manually.
 
-## Version 5.1 (post-Test-19 publication hardening)
+## Version 1.0
 
 Incorporates lessons from a full sampling and PSM stress-test cycle,
 including the Test 12–19 adversarial series:
